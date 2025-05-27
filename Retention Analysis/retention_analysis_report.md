@@ -3,9 +3,9 @@
 <br>
 
 ---
-Author: Bora Lee
-Skills: Google Sheets, Mysql
-Period: 2023/07/15 → 2023/07/21
+Author: Bora Lee  
+Skills: Google Sheets, Mysql  
+Period: 2023/07/15 → 2023/07/21  
 Contribution: 100%
 
 ---
