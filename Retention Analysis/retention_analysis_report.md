@@ -77,8 +77,8 @@ FROM cycle;
 - Month 2 retention: **33.8%**, above industry benchmark (~20%)
 - August cohort retention drops significantly at Month 8
 
-![Figure 1 – Purchase Cycle Distribution](./visuals/purchase_cycle_distribution.png)
-![Figure 2 – Retention by Cohort](./visuals/retention_by_cohort.png)
+![Figure 1 – Purchase Cycle Distribution](Retention Analysis/visuals/Number of Customers by Purchase Interval Group.png)
+![Figure 2 – Retention by Cohort](Retention Analysis/visuals/retention_by_cohort.png)
 
 ## 6. 💡 Recommendations
 ### Challenge 1: Low new user acquisition
