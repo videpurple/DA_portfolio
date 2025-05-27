@@ -99,7 +99,7 @@ The **lowest new user count** occurred in August 2019, followed by a **63% incre
 
 
 
-![cohort_chart](cohort_chart.png)
+![cohort_chartcohort_chart.png](https://github.com/videpurple/DA_portfolio/blob/8097f3ed1068e401c26eff1b32f33ac6ca678fa5/Retention%20Analysis/visuals/retention_chart1.png)
 
 - From October onward, new user acquisition remained steady, supported by **seasonal shopping events** such as Halloween, Black Friday, and early Christmas preparation.
   
