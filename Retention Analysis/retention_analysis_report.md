@@ -216,7 +216,7 @@ ORDER BY cnt_product DESC;
 
 <br>
 
-🔖 The **average retention rate at Month 2** was **33.8%**, which is relatively high compared to industry benchmarks (typically below 20% after 8 weeks[¹](https://www.notion.so/E-commerce-Customer-Retention-Analysis-1f5aa5dfec478105b447ec2506ba0d24?pvs=21)[**⁾**](https://www.notion.so/E-commerce-Customer-Retention-Analysis-1f5aa5dfec478105b447ec2506ba0d24?pvs=21)).
+🔖 The **average retention rate at Month 2** was **33.8%**, which is relatively high compared to industry benchmarks (typically below 20% after 8 weeks¹⁾.
 Although Month 2 exhibited the **lowest average retention rate**, a **gradual upward trend** was observed in later months, with some temporary drops and stabilizations in between.
 → It is essential to investigate strategies to improve Month 2 retention, as it represents a key drop-off point despite relatively strong early engagement.
 
