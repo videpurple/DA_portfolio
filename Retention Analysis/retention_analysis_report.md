@@ -41,7 +41,7 @@ Retention was analyzed using two key methods:
 |:-|
 
 
-✔️ The analysis targeted users who made at least one repeat purchase after their first order, representing approximately **66%** of total users.
+✔️ The analysis targeted users who made at least one repeat purchase after their first order, representing approximately **66%** of total users.  
 ✔️ The purchase interval was calculated as:
 `Last Purchase Date - First Purchase Date / (Number of Purchases - 1)`
 
@@ -51,9 +51,9 @@ Retention was analyzed using two key methods:
 </p>
 
 
-- More than half of repeat customers made their next purchase within **1 to 60 days**.
-- While the **average interval** was 78.4 days, the distribution showed high variability due to the wide range of product types offered.
-- Therefore, the **median** was used as a more stable retention benchmark, as it is less affected by extreme outliers.
+- More than half of repeat customers made their next purchase within **1 to 60 days**.  
+- While the **average interval** was 78.4 days, the distribution showed high variability due to the wide range of product types offered.  
+- Therefore, the **median** was used as a more stable retention benchmark, as it is less affected by extreme outliers.  
 
 <details>
 <summary>SQL Query - Purchase Cycle Distribution</summary>
