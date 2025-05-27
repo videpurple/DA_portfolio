@@ -77,8 +77,8 @@ FROM cycle;
 - Month 2 retention: **33.8%**, above industry benchmark (~20%)
 - August cohort retention drops significantly at Month 8
 
-![Figure 1 – Purchase Cycle Distribution](Retention Analysis/visuals/Number of Customers by Purchase Interval Group.png)
-![Figure 2 – Retention by Cohort](Retention Analysis/visuals/retention_by_cohort.png)
+![Figure 1 – Purchase Cycle Distribution]([Retention Analysis/visuals/Number of Customers by Purchase Interval Group.png]([https://github.com/videpurple/DA_portfolio/blob/ae7b7549f2742175a5455fe4f1d0b32781516680/Retention%20Analysis/visuals/Customer%20Distribution%20by%20Purchase%20Interval.png]))
+![Figure 2 – Retention by Cohort]([Retention Analysis/visuals/retention_by_cohort.png](https://github.com/videpurple/DA_portfolio/blob/ae7b7549f2742175a5455fe4f1d0b32781516680/Retention%20Analysis/visuals/retention_rate_chart.png))
 
 ## 6. 💡 Recommendations
 ### Challenge 1: Low new user acquisition
@@ -108,8 +108,8 @@ Send alerts for birthdays and holidays to prompt gift purchases.
 | Christmas        | Dec 25        | Gifts, lights, cards           |
 
 ## 8. 📷 Visualizations
-- **Figure 1**: Customer distribution by purchase interval
-- **Figure 2**: Retention trends by cohort (60-day buckets)
+- **Figure 1**: ![Customer distribution by purchase interval](https://github.com/videpurple/DA_portfolio/blob/ae7b7549f2742175a5455fe4f1d0b32781516680/Retention%20Analysis/visuals/Customer%20Distribution%20by%20Purchase%20Interval.png)
+- **Figure 2**: ![Retention trends by cohort (60-day buckets)]()
 - **Figure 3**: Drop in new customers after December 2018
 
 > Include visual files under `/visuals` folder
