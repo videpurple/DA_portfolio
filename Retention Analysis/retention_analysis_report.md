@@ -46,8 +46,8 @@ Retention was analyzed using two key methods:
 `Last Purchase Date - First Purchase Date / (Number of Purchases - 1)`
 
 <p>
-    <img src = "C:\Users\dlqhf\Downloads\retention_boralee\Number_of_Customers_by_Purchase_Interval_Group.png", width = "45%"/>
-    <img src = "C:\Users\dlqhf\Downloads\retention_boralee\Customer_Distribution_by_Purchase_Interval.png", width = "45%"/>
+    <img src = "https://github.com/videpurple/DA_portfolio/blob/5839deb3eaf25c6326c90508ce9a077ce31eeec0/Retention%20Analysis/visuals/Number%20of%20Customers%20by%20Purchase%20Interval%20Group.png", width = "45%"/>
+    <img src = "https://github.com/videpurple/DA_portfolio/blob/5839deb3eaf25c6326c90508ce9a077ce31eeec0/Retention%20Analysis/visuals/Customer%20Distribution%20by%20Purchase%20Interval.png", width = "45%"/>
 </p>
 
 
@@ -222,14 +222,14 @@ Although Month 2 exhibited the **lowest average retention rate**, a **gradual up
 
 </aside>
 
-![cohort_rate_chart](cohort_rate_chart.png)
+![cohort_rate_chart.png](https://github.com/videpurple/DA_portfolio/blob/5839deb3eaf25c6326c90508ce9a077ce31eeec0/Retention%20Analysis/visuals/retention_rate_chart.png)
 
-![Retention Trends by Cohort over 12 Months.png](Retention_Trends_by_Cohort_over_12_Months.png)
+![Retention_Trends_by_Cohort_over_12_Months.png](https://github.com/videpurple/DA_portfolio/blob/5839deb3eaf25c6326c90508ce9a077ce31eeec0/Retention%20Analysis/visuals/Retention%20Trends%20by%20Cohort%20over%2012%20Months.png)
 
 
 🔖 A notable drop in retention was found around **Month 8** across most cohorts, coinciding with **August**, a month without major promotional events or campaigns.
 
-![cohort_rate_chart_highlight](cohort_rate_chart_highlight.png)
+![(cohort_rate_chart_highlight.png)](https://github.com/videpurple/DA_portfolio/blob/198b06ab5cd0c21d34b96f4e5e7e206d0b572b19/Retention%20Analysis/visuals/cohort_rate_chart_highlight.png)
 
 <details>
 <summary>SQL Query – Generating 2-Month Retention Cohorts by First Purchase</summary>
@@ -277,7 +277,7 @@ Based on the retention analysis and customer behavior patterns, we propose the f
 
 #### Challenge 1: Decreasing number of new customers
 
-![Monthly First-Time Customer Count.png](Monthly_First-Time_Customer_Count.png)
+![(Monthly_First-Time_Customer_Count.png)](https://github.com/videpurple/DA_portfolio/blob/6c6bba1c96b0ef7c9e06b198c2d91752a0a54887/Retention%20Analysis/visuals/Monthly%20First-Time%20Customer%20Count.png)
 
 **✅ Action Plan 1 – Launch a Referral Program**
 
