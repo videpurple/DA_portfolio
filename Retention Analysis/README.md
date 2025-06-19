@@ -29,7 +29,7 @@ This project explores customer retention trends using cohort analysis. It was co
 
 ## 🔗 Files & Resources
 
-- 📎 [Full Report (PDF)](https://github.com/videpurple/portfolio/blob/main/%EC%BD%94%ED%98%B8%ED%8A%B8%EB%B6%84%EC%84%9D/project/%F0%9F%8F%AC%20E-commerce%20%EB%A6%AC%ED%85%90%EC%85%98%20%EB%B6%84%EC%84%9D.pdf)
+- 📎 [Full Report](https://github.com/videpurple/DA_portfolio/blob/main/Retention%20Analysis/Report/retention_analysis_report.md)
 
 ---
 
