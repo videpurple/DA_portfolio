@@ -30,7 +30,3 @@ This project explores customer retention trends using cohort analysis. It was co
 ## 🔗 Files & Resources
 
 - 📎 [Full Report](https://github.com/videpurple/DA_portfolio/blob/main/Retention%20Analysis/Report/retention_analysis_report.md)
-
----
-
-Feel free to check the [original dataset](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business) or explore the SQL queries inside the project folder.
