@@ -29,5 +29,5 @@ This project segments retail customers based on their purchase behavior to suppo
 
 ## 🔗 Files & Resources
 
-- 📎 [Notebook on GitHub](https://github.com/videpurple/portfolio/blob/main/RFM%EB%B6%84%EC%84%9D/Notebook/RFM%EB%B6%84%EC%84%9D_%EC%9D%B4%EB%B3%B4%EB%9D%BC.ipynb)
+- 📎 [Notebook on GitHub](https://github.com/videpurple/DA_portfolio/blob/main/Customer%20Segmentation/Notebook/customer_segmentation_rfm_analysis.ipynb)
 - 📊 Dataset and visualizations available in project folder
